@@ -16,8 +16,8 @@ Este repositório contém um projeto em desenvolvimento para um pipeline de dado
 1. Certifique-se de ter o [Astro CLI](https://docs.astronomer.io/astro/cli/install-cli) instalado.
 2. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_DIRETORIO>
+   git clone https://github.com/FelipeHulle/brewery-bees.git
+   cd brewery-bees
    ```
 3. Inicie o ambiente do Airflow:
    ```bash
